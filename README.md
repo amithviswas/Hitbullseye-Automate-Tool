@@ -37,21 +37,4 @@ Automate your test-taking on [hitbullseye.com](https://www.hitbullseye.com/) wit
 
 10. Click "Start" to automate the test-taking process, and "Stop" to halt it.
 
-## Support and Contribution
-
-If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/sauravhathi/Hitbullseye-Automate-Tool/issues).
-
-Feel free to contribute to this project by submitting pull requests or by addressing any open issues.
-
-## Author
-
-- **Author:** Saurav Hathi
-- **GitHub:** [sauravhathi](https://github.com/sauravhathi)
-- **LinkedIn:** [Saurav Hathi on LinkedIn](https://www.linkedin.com/in/sauravhathi)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/sauravhathi/Hitbullseye-Automate-Tool/blob/main/LICENSE) file for details.
-=======
-# Hitbullseye-Automate-Tool
->>>>>>> 34ed677e27ea34084436118a680e8c50f45b99b2
+**Note :** **Please Change the Answer Key Every time you write your text by seeing you set**

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <p align="center">Hitbullseye Automate Tool</p>
 
 <p align="center">
@@ -51,3 +52,6 @@ Feel free to contribute to this project by submitting pull requests or by addres
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/sauravhathi/Hitbullseye-Automate-Tool/blob/main/LICENSE) file for details.
+=======
+# Hitbullseye-Automate-Tool
+>>>>>>> 34ed677e27ea34084436118a680e8c50f45b99b2
